@@ -5,10 +5,21 @@
 - 📫 How to reach me: lorran.tito@outlook.com
 - ⚡ Curious fact: Sometimes I study biology.
 
-<div>
+<!-- <div>
   <a href="https://github.com/LorranSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api username=LorranSilva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
-</div>
+</div> -->
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=LorranSilva&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=LorranSilva&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LorranSilva&show_icons=true" />
+</picture>
+
   
   ##
 <div style="display: inline_block"><br>
