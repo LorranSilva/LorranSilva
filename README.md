@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Odoo.
 - 🌱 I’m learning Software Engine, Data analysis and anothers things of the technology world.
-- 📫 How to reach me: ...
+- 📫 How to reach me: lorran.tito@outlook.com
 - ⚡ Curious fact: Sometimes I study biology.
 
 <div>
