@@ -1,14 +1,9 @@
 ### Hi, I'm Lorran Tito!
 
-- 🔭 I’m currently working on Odoo.
+- 🔭 I’m currently working with web technologies.
 - 🌱 I’m learning Software Engine, Data analysis and anothers things of the technology world.
 - 📫 How to reach me: lorran.tito@outlook.com
 - ⚡ Curious fact: Sometimes I study biology.
-
-<!-- <div>
-  <a href="https://github.com/LorranSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api username=LorranSilva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
-</div> -->
 
 <picture>
 <source 
