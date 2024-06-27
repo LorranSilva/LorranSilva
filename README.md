@@ -1,6 +1,6 @@
 ### Hi, I'm Lorran Tito!
 
-- 🔭 I’m currently working with BPM and system analysis.
+- 🔭 I’m currently working with BPMS and system analysis.
 - 🌱 I’m learning Software Engine, Data analysis and anothers things of the technology world.
 - 📫 How to reach me: lorran.tito@outlook.com
 - ⚡ Curious fact: Sometimes I study biology.
