@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working with BPMS and system analysis.
 - 🌱 I’m learning Software Engine, Data analysis and anothers things of the technology world.
-- 📫 How to reach me: lorran.tito@outlook.com
+- 📫 How to reach me:
+  -  Mail: lorran.tito@outlook.com
+  -  Linkedin: https://www.linkedin.com/in/lorrantito
 - ⚡ Curious fact: Sometimes I study biology.
 
 <!-- <picture> -->
